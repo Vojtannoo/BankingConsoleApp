@@ -16,7 +16,6 @@ Console banking application written in C#.
 ## Technologies
 
 - C#
-- .NET
 - Object-Oriented Programming
 - Console Application
 
@@ -31,4 +30,4 @@ Console banking application written in C#.
 
 ## Purpose
 
-This project was created as a portfolio project for learning C# and preparing for junior developer roles in banking.
+This project was created as a portfolio project and preparing for junior developer roles.
